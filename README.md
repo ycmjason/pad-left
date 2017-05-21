@@ -16,5 +16,10 @@ padLeft('hello', 10); // "     hello"
 padLeft('10101', 10, '0'); // "0000010101"
 ```
 
+## Test
+```
+npm test
+```
+
 ## Why not other packages?
 There is no other reason, this implementation is just simpler and might not be that efficient.
