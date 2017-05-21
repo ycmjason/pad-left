@@ -1,5 +1,6 @@
 # Pad left simple
 [![Build Status](https://travis-ci.org/ycmjason/pad-left.svg?branch=master)](https://travis-ci.org/ycmjason/pad-left)
+
 An implementation of pad left at its simplest.
 
 ## Install
