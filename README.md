@@ -1,5 +1,5 @@
 # Pad left simple
-[![Build Status](https://travis-ci.org/ycmjason/pad-left.svg?branch=master)](https://travis-ci.org/ycmjason/pad-left)
+[![Build Status](https://travis-ci.org/ycmjason/pad-left-simple.svg?branch=master)](https://travis-ci.org/ycmjason/pad-left-simple)
 
 Pad left with some chars given a fixed length. An implementation of pad left at its simplest.
 

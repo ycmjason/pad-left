@@ -1,6 +1,6 @@
 {
   "name": "pad-left-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pad left with some chars given a fixed length.",
   "main": "index.js",
   "directories": {
